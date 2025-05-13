@@ -1,5 +1,5 @@
-#AI and ML Researcher
+# AI and ML Researcher
 
-##Education
+## Education
 
-##Publication
+## Publication
