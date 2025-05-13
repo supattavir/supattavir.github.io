@@ -1,5 +1,6 @@
-# AI and ML Researcher
+# AI and ML researcher
 
-## Education
+## Education 
+ - Ph.D in..
 
 ## Publication
