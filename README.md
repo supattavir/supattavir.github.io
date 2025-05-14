@@ -69,7 +69,6 @@
        <a href="https://ieeexplore.ieee.org/document/10472793">[paper]</a> 
     </td>
   </tr>
-</table>
 
 
 
