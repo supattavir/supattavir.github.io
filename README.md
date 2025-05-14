@@ -8,7 +8,9 @@
 <table>
   <tr>
     <td valign="top" width="30%" style="padding-right: 10px;">
+      <p><a href="https://supattavir.github.io/asset/image/Parametric_SR.png">
       <img src="https://supattavir.github.io/asset/image/Parametric_SR_thumb.png" width="200">
+      </a></p>
     </td>
     <td valign="top" width="70%">
      <a href="https://link.springer.com/article/10.1007/s00138-022-01315-9"> <b>Parametric Regularization Loss in Super Resolution Reconstruction</b></a><br>
