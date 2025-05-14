@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/3f47c415-4a19-4eda-8ae7-82bedf71e8ea)# AI and ML researcher
+# AI and ML researcher
 
 ## Education 
  - Doctor of Philosophy in Information Science (Dual degree), Japan Advanced Institute of Science and Technology (JAIST), Japan (SIIT-JAIST-NSTDA Scholarship)
