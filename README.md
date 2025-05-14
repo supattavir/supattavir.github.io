@@ -3,8 +3,6 @@
 ## Education 
  - Doctor of Philosophy in Information Science (Dual degree), Japan Advanced Institute of Science and Technology (JAIST), Japan (SIIT-JAIST-NSTDA Scholarship)
  - Doctor of Philosophy in Engineering and Technology (Dual degree), The Sirindhorn International Institute of Technology (SIIT), Thailand (SIIT-JAIST-NSTDA Scholarship)
-- Master of Science in Information and Technology, Panyapiwat Institute of Management, Thailand (NSTDA Scholarship)
-- Bachelor of Science in Information and Technology, Thai-Nichi Institute of Technology, Thailand
 
 ## Publications
 <table>
@@ -13,20 +11,20 @@
       <img src="https://supattavir.github.io/asset/image/Parametric_SR_thumb.png" width="200">
     </td>
     <td valign="top" width="70%">
-      <b>Parametric Loss based Super-Resolution for Scene Text Recognition</b><br>
-      S. Viriyavisuthisakul, N. Kaothanthong, P. Sanguansat, T. Racharak, Minh Le Nguyen, C.Haruechaiyasak , and T. Yamasaki.<br>
-      [arxiv](link_to_foundpose_arxiv) / [project page](link_to_foundpose_project_page) / [code](link_to_foundpose_code)
+      <b>Parametric Regularization Loss in Super Resolution Reconstruction</b><br>
+     S. Viriyavisuthisakul, N. Kaothanthong, P. Sanguansat, Minh Le Nguyen, C.Haruechaiyasak.<br>
+      [paper](https://link.springer.com/article/10.1007/s00138-022-01315-9) 
     </td>
   </tr>
   <tr>
     <td valign="top" width="30%" style="padding-right: 10px;">
-      <img src="link_to_echoscene_image.png" alt="EchoScene Paper" width="200">
+      <img src="https://supattavir.github.io/asset/image/Parametric_STISR.png" width="200">
     </td>
     <td valign="top" width="70%">
-      **EchoScene: Indoor Scene Generation via Information Echo over Scene Graph Diffusion**<br>
-      Guangyao Zhai, Evin Pınar Örnek, Dave Zhenyu Chen, Ruotong Liao, Yan Di, Nassir Navab, Federico Tombari, Benjamin Busam<br>
+      <b>Parametric Loss based Super-Resolution for Scene Text Recognition</b><br>
+      S. Viriyavisuthisakul, N. Kaothanthong, P. Sanguansat, T. Racharak, Minh Le Nguyen, C.Haruechaiyasak , and T. Yamasaki.<br>
       ECCV, 2024<br>
-      [arxiv](link_to_echoscene_arxiv) / [project page](link_to_echoscene_project_page) / [code](link_to_echoscene_code) / [data](link_to_echoscene_data)
+     [paper](https://link.springer.com/article/10.1007/s00138-023-01416-z) / [code](https://github.com/supattavir/MPR) / 
     </td>
   </tr>
 </table>
