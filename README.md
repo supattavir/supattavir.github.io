@@ -13,7 +13,7 @@
     <td valign="top" width="70%">
       <b>Parametric Regularization Loss in Super Resolution Reconstruction</b><br>
      S. Viriyavisuthisakul, N. Kaothanthong, P. Sanguansat, Minh Le Nguyen, C.Haruechaiyasak.<br>
-      [paper](https://link.springer.com/article/10.1007/s00138-022-01315-9) 
+     <a href="https://link.springer.com/article/10.1007/s00138-022-01315-9">[paper]</a>
     </td>
   </tr>
   <tr>
