@@ -18,19 +18,20 @@ ECCV, 2024<br>
 S. Viriyavisuthisakul, N. Kaothanthong, P. Sanguansat, T. Racharak, Minh Le Nguyen, C.Haruechaiyasak , and T. Yamasaki.<br> ECCV, 2024<br> [arxiv](link_to_foundpose_arxiv) / [project page](link_to_foundpose_project_page) / [code](link_to_foundpose_code) |
 |:---:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-<table>
+<table style="border-collapse: collapse;">
   <tr>
-    <td valign="top" width="30%">
+    <td valign="top" width="30%" style="padding-right: 10px;">
       <img src="https://supattavir.github.io/asset/image/Parametric_SR_thumb.png" alt="FoundPose Paper" width="200">
     </td>
     <td valign="top" width="70%">
-      **Parametric Loss based Super-Resolution for Scene Text Recognition**<br>
-      S. Viriyavisuthisakul, N. Kaothanthong, P. Sanguansat, T. Racharak, Minh Le Nguyen, C.Haruechaiyasak , and T. Yamasaki.<br>
+      <b>**FoundPose: Unseen Object Pose Estimation with Foundation Features**</b><br>
+      Evin Pınar Örnek, Yann Labbé, Buğra Tekin, Lingni Ma, Cem Keskin, Christian Forster, Tomas Hodan<br>
+      ECCV, 2024<br>
       [arxiv](link_to_foundpose_arxiv) / [project page](link_to_foundpose_project_page) / [code](link_to_foundpose_code)
     </td>
   </tr>
   <tr>
-    <td valign="top" width="30%">
+    <td valign="top" width="30%" style="padding-right: 10px;">
       <img src="link_to_echoscene_image.png" alt="EchoScene Paper" width="200">
     </td>
     <td valign="top" width="70%">
@@ -41,7 +42,6 @@ S. Viriyavisuthisakul, N. Kaothanthong, P. Sanguansat, T. Racharak, Minh Le Nguy
     </td>
   </tr>
 </table>
-
 <br>
 
 [![EchoScene Paper](link_to_echoscene_image.png)](link_to_echoscene_project_page)
