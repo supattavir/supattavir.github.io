@@ -1,4 +1,4 @@
-# AI and ML researcher
+![image](https://github.com/user-attachments/assets/3f47c415-4a19-4eda-8ae7-82bedf71e8ea)# AI and ML researcher
 
 ## Education 
  - Doctor of Philosophy in Information Science (Dual degree), Japan Advanced Institute of Science and Technology (JAIST), Japan (SIIT-JAIST-NSTDA Scholarship)
@@ -41,6 +41,16 @@
   </tr>
  <tr>
     <td valign="top" width="30%" style="padding-right: 10px;">
+      <img src="https://supattavir.github.io/asset/image/IFMIA.jpg" width="200">
+    </td>
+    <td valign="top" width="70%">
+      <b>Optimizing Fixed Window Settings for Classification of Ischemic Stroke in Noncontrast Cranial CT Images</b><br>
+      S. Viriyavisuthisakul, N. Kaothanthong, P. Sanguansat, T. Yamasaki and D. Songsaeng<br>
+      IFMIA, 2025  
+    </td>
+  </tr>
+<tr>
+    <td valign="top" width="30%" style="padding-right: 10px;">
       <img src="https://supattavir.github.io/asset/image/aixmm.png" width="200">
     </td>
     <td valign="top" width="70%">
@@ -59,6 +69,16 @@
       ICCE, 2024 <br>
        <a href="https://ieeexplore.ieee.org/document/10444229">[paper]</a> 
     <tr>
+ <tr>
+    <td valign="top" width="30%" style="padding-right: 10px;">
+      <img src="https://supattavir.github.io/asset/image/WiCV@ECCV2024.png" width="200">
+    </td>
+    <td valign="top" width="70%">
+      <b>The Adaptive Framework for Transformer-based Super Resolution: A Comparative Study for Scene Text Recognition</b><br>
+      S. Viriyavisuthisakul, P. Sanguansat, and T. Yamasaki<br>
+      WiCV in ECCV 2024
+    </td>
+  </tr>
     <td valign="top" width="30%" style="padding-right: 10px;">
       <img src="https://supattavir.github.io/asset/image/sitis_2023.png" width="200">
     </td>
@@ -69,6 +89,50 @@
        <a href="https://ieeexplore.ieee.org/document/10472793">[paper]</a> 
     </td>
   </tr>
+ <tr>
+    <td valign="top" width="30%" style="padding-right: 10px;">
+      <img src="https://supattavir.github.io/asset/image/WiML_NeuIPS_2023.jpg" width="200">
+    </td>
+    <td valign="top" width="70%">
+      <b>Comparative Evaluation of Fixed Windowing Strategies on CT Brain Images Using Multiple Deep Learning Models</b><br>
+      S. Viriyavisuthisakul, N. Kaothanthong, P. Sanguansat, T. Yamasaki and D. Songsaeng<br>
+      WiML in NeurIPS 2023
+    </td>
+  </tr>
+ <tr>
+    <td valign="top" width="30%" style="padding-right: 10px;">
+      <img src="https://supattavir.github.io/asset/image/wicv_cvpr23.jpg" width="200">
+    </td>
+    <td valign="top" width="70%">
+      <b>Parametric Regularization Loss in Super-Resolution Reconstruction</b><br>
+      S. Viriyavisuthisakul, N. Kaothanthong, P. Sanguansat, T. Racharak, Minh Le Nguyen, C.Haruechaiyasak , and T. Yamasaki<br>
+      WiCV in CVPR 2023
+    </td>
+  </tr>
+ <tr>
+    <td valign="top" width="30%" style="padding-right: 10px;">
+      <img src="https://supattavir.github.io/asset/image/ICCV2023_Poster_page-0001.jpg" width="200">
+    </td>
+    <td valign="top" width="70%">
+      <b>Parametric Loss based Super-Resolution for Scene Text Recognition</b><br>
+      S. Viriyavisuthisakul, N. Kaothanthong, P. Sanguansat, T. Racharak, Minh Le Nguyen, C.Haruechaiyasak , and T. Yamasaki<br>
+      WiCV in ICCV 2023
+    </td>
+  </tr>
+
+     
+<tr>
+    <td valign="top" width="30%" style="padding-right: 10px;">
+      <img src="https://supattavir.github.io/asset/image/IoT_queue.png" width="200">
+    </td>
+    <td valign="top" width="70%">
+      <a href="https://ieeexplore.ieee.org/document/7990991"> <b>Automatic queue monitoring in store using a low-cost IoT sensing platform</b></a><br>
+      S. Viriyavisuthisakul, P. Sanguansat, S. Toriumi, M. Hayashi and T. Yamasaki<br>
+      ICCE-TW, 2017 <br>
+       <a href="https://ieeexplore.ieee.org/document/7990991">[paper]</a> 
+    </td>
+  </tr>
+  
 
 
 
