@@ -11,7 +11,7 @@
       <img src="https://supattavir.github.io/asset/image/Parametric_SR_thumb.png" width="200">
     </td>
     <td valign="top" width="70%">
-      <b>Parametric Regularization Loss in Super Resolution Reconstruction</b><br>
+     <a href="https://link.springer.com/article/10.1007/s00138-022-01315-9"> <b>Parametric Regularization Loss in Super Resolution Reconstruction</b></a><br>
      S. Viriyavisuthisakul, N. Kaothanthong, P. Sanguansat, Minh Le Nguyen, C.Haruechaiyasak.<br>
      <a href="https://link.springer.com/article/10.1007/s00138-022-01315-9">[paper]</a>
     </td>
