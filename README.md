@@ -9,8 +9,8 @@
 ## Publications
 
 [![FoundPose Paper](link_to_foundpose_image.png)](link_to_foundpose_project_page)
-**FoundPose: Unseen Object Pose Estimation with Foundation Features**<br>
-Evin Pınar Örnek, Yann Labbé, Buğra Tekin, Lingni Ma, Cem Keskin, Christian Forster, Tomas Hodan<br>
+**Parametric Loss based Super-Resolution for Scene Text Recognition**<br>
+S. Viriyavisuthisakul, N. Kaothanthong, P. Sanguansat, T. Racharak, Minh Le Nguyen, C.Haruechaiyasak , and T. Yamasaki.<br>
 ECCV, 2024<br>
 [arxiv](link_to_foundpose_arxiv) / [project page](link_to_foundpose_project_page) / [code](link_to_foundpose_code)
 
@@ -22,7 +22,4 @@ Guangyao Zhai, Evin Pınar Örnek, Dave Zhenyu Chen, Ruotong Liao, Yan Di, Nassi
 ECCV, 2024<br>
 [arxiv](link_to_echoscene_arxiv) / [project page](link_to_echoscene_project_page) / [code](link_to_echoscene_code) / [data](link_to_echoscene_data)
 
-<br>
-[![EchoScene Paper](asset/image/supatta_circle.jpg)](link_to_echoscene_project_page)
-**Parametric Loss based Super-Resolution for Scene Text Recognition**<br>
-S. Viriyavisuthisakul, N. Kaothanthong, P. Sanguansat, T. Racharak, Minh Le Nguyen, C.Haruechaiyasak , and T. Yamasaki.
+
