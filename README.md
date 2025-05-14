@@ -20,7 +20,9 @@
   </tr>
   <tr>
     <td valign="top" width="30%" style="padding-right: 10px;">
+       <p><a href="https://supattavir.github.io/asset/image/Parametric_STISR.png">
       <img src="https://supattavir.github.io/asset/image/Parametric_STISR.png" width="200">
+      </a></p>
     </td>
     <td valign="top" width="70%">
       <a href="https://link.springer.com/article/10.1007/s00138-023-01416-z"> <b>Parametric Loss based Super-Resolution for Scene Text Recognition</b></a><br>
@@ -31,7 +33,9 @@
   </tr>
  <tr>
     <td valign="top" width="30%" style="padding-right: 10px;">
+      <p><a href="https://supattavir.github.io/asset/image/Demo_screen.png">
       <img src="https://supattavir.github.io/asset/image/Demo_screen.png" width="200">
+      </a></p>
     </td>
     <td valign="top" width="70%">
       <a href="https://link.springer.com/article/10.1007/s00138-023-01416-z"> <b>A Web Demo Interface for Super-Resolution Reconstruction with Parametric Regularization Loss</b></a><br>
@@ -43,7 +47,9 @@
   </tr>
  <tr>
     <td valign="top" width="30%" style="padding-right: 10px;">
+     <p><a href="https://supattavir.github.io/asset/image/IFMIA.jpg">
       <img src="https://supattavir.github.io/asset/image/IFMIA.jpg" width="200">
+      </a></p>
     </td>
     <td valign="top" width="70%">
       <b>Optimizing Fixed Window Settings for Classification of Ischemic Stroke in Noncontrast Cranial CT Images</b><br>
@@ -53,17 +59,21 @@
   </tr>
 <tr>
     <td valign="top" width="30%" style="padding-right: 10px;">
+       <p><a href="https://supattavir.github.io/asset/image/aixmm.png">
       <img src="https://supattavir.github.io/asset/image/aixmm.png" width="200">
+      </a></p>
     </td>
     <td valign="top" width="70%">
-      <b>A Web Demo Interface for Super-Resolution Reconstruction with Parametric Regularization Loss</b><br>
+      <b>Explainable AI for Image Aesthetic Evaluation Using Vision-Language Models</b><br>
       S. Viriyavisuthisakul, P. Sanguansat and T. Yamasaki<br>
       AIxMM, 2025  
     </td>
   </tr>
  <tr>
     <td valign="top" width="30%" style="padding-right: 10px;">
+       <p><a href="https://supattavir.github.io/asset/image/STR_result.png">
       <img src="https://supattavir.github.io/asset/image/STR_result.png" width="200">
+      </a></p>
     </td>
     <td valign="top" width="70%">
       <a href="https://ieeexplore.ieee.org/document/10444229"> <b>A Comprehensive Study of Scene Text Recognition in Scene Text Image Super-Resolution with Parametric Frameworks</b></a><br>
@@ -73,7 +83,9 @@
     <tr>
  <tr>
     <td valign="top" width="30%" style="padding-right: 10px;">
+      <p><a href="https://supattavir.github.io/asset/image/WiCV@ECCV2024.png">
       <img src="https://supattavir.github.io/asset/image/WiCV@ECCV2024.png" width="200">
+      </a></p>
     </td>
     <td valign="top" width="70%">
       <b>The Adaptive Framework for Transformer-based Super Resolution: A Comparative Study for Scene Text Recognition</b><br>
@@ -82,7 +94,9 @@
     </td>
   </tr>
     <td valign="top" width="30%" style="padding-right: 10px;">
+       <p><a href="https://supattavir.github.io/asset/image/sitis_2023.png">
       <img src="https://supattavir.github.io/asset/image/sitis_2023.png" width="200">
+      </a></p>
     </td>
     <td valign="top" width="70%">
       <a href="https://ieeexplore.ieee.org/document/10472793"> <b>Comparative Evaluation of Fixed Windowing Strategies on CT Brain Images Using Multiple Deep Learning Models</b></a><br>
@@ -93,7 +107,9 @@
   </tr>
  <tr>
     <td valign="top" width="30%" style="padding-right: 10px;">
+     <p><a href="https://supattavir.github.io/asset/image/WiML_NeuIPS_2023.jpg">
       <img src="https://supattavir.github.io/asset/image/WiML_NeuIPS_2023.jpg" width="200">
+      </a></p>
     </td>
     <td valign="top" width="70%">
       <b>Comparative Evaluation of Fixed Windowing Strategies on CT Brain Images Using Multiple Deep Learning Models</b><br>
@@ -103,7 +119,9 @@
   </tr>
  <tr>
     <td valign="top" width="30%" style="padding-right: 10px;">
+     <p><a href="https://supattavir.github.io/asset/image/wicv_cvpr23.jpg">
       <img src="https://supattavir.github.io/asset/image/wicv_cvpr23.jpg" width="200">
+      </a></p>
     </td>
     <td valign="top" width="70%">
       <b>Parametric Regularization Loss in Super-Resolution Reconstruction</b><br>
@@ -113,7 +131,9 @@
   </tr>
  <tr>
     <td valign="top" width="30%" style="padding-right: 10px;">
+     <p><a href="https://supattavir.github.io/asset/image/ICCV2023_Poster_page-0001.jpg">
       <img src="https://supattavir.github.io/asset/image/ICCV2023_Poster_page-0001.jpg" width="200">
+      </a></p>
     </td>
     <td valign="top" width="70%">
       <b>Parametric Loss based Super-Resolution for Scene Text Recognition</b><br>
