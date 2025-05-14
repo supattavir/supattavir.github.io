@@ -8,7 +8,7 @@
 
 ## Publications
 
-[!(asset/image/Parametric_SR.png)]
+[!(https://supattavir.github.io/asset/image/Parametric_SR.png)]
 **Parametric Loss based Super-Resolution for Scene Text Recognition**<br>
 S. Viriyavisuthisakul, N. Kaothanthong, P. Sanguansat, T. Racharak, Minh Le Nguyen, C.Haruechaiyasak , and T. Yamasaki.<br>
 ECCV, 2024<br>
