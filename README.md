@@ -34,7 +34,7 @@
     <td valign="top" width="70%">
       <a href="https://link.springer.com/article/10.1007/s00138-023-01416-z"> <b>A Web Demo Interface for Super-Resolution Reconstruction with Parametric Regularization Loss</b></a><br>
       S. Viriyavisuthisakul, P. Sanguansat and T. Yamasaki<br>
-      ICMR, 2024
+      ICMR, 2024 <br>
        <a href="https://dl.acm.org/doi/10.1145/3652583.3657591">[paper]</a> / 
        <a href="https://github.com/supattavir/MPRdemo">[code]</a>
     </td>
