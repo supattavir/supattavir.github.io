@@ -17,17 +17,11 @@ ECCV, 2024<br>
 | <img src="https://supattavir.github.io/asset/image/Parametric_SR_thumb.png" width="200"> | **Parametric Loss based Super-Resolution for Scene Text Recognition**<br> 
 S. Viriyavisuthisakul, N. Kaothanthong, P. Sanguansat, T. Racharak, Minh Le Nguyen, C.Haruechaiyasak , and T. Yamasaki.<br> ECCV, 2024<br> [arxiv](link_to_foundpose_arxiv) / [project page](link_to_foundpose_project_page) / [code](link_to_foundpose_code) |
 |:---:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+table {
+    border-collapse: collapse;
+}
 
-<style>
-    table {
-        border: solid 1px red;
-    } 
-    table tr td {
-        border: solid 1px blue;
-    }     
-</style>
-
-<table width="100%">
+<table>
   <tr>
     <td valign="top" width="30%" style="padding-right: 10px;">
       <img src="https://supattavir.github.io/asset/image/Parametric_SR_thumb.png" alt="FoundPose Paper" width="200">
