@@ -14,7 +14,7 @@ S. Viriyavisuthisakul, N. Kaothanthong, P. Sanguansat, T. Racharak, Minh Le Nguy
 ECCV, 2024<br>
 [arxiv](link_to_foundpose_arxiv) / [project page](link_to_foundpose_project_page) / [code](link_to_foundpose_code)
 
-| ![Parametric_SR](https://supattavir.github.io/asset/image/Parametric_SR_thumb.png =x250) | **Parametric Loss based Super-Resolution for Scene Text Recognition**<br> 
+| <img src="https://supattavir.github.io/asset/image/Parametric_SR_thumb.png" width="200"> | **Parametric Loss based Super-Resolution for Scene Text Recognition**<br> 
 S. Viriyavisuthisakul, N. Kaothanthong, P. Sanguansat, T. Racharak, Minh Le Nguyen, C.Haruechaiyasak , and T. Yamasaki.<br> ECCV, 2024<br> [arxiv](link_to_foundpose_arxiv) / [project page](link_to_foundpose_project_page) / [code](link_to_foundpose_code) |
 |:---:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
