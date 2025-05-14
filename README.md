@@ -49,6 +49,28 @@
       AIxMM, 2025  
     </td>
   </tr>
+ <tr>
+    <td valign="top" width="30%" style="padding-right: 10px;">
+      <img src="https://supattavir.github.io/asset/image/STR_result.png" width="200">
+    </td>
+    <td valign="top" width="70%">
+      <a href="https://ieeexplore.ieee.org/document/10444229"> <b>A Comprehensive Study of Scene Text Recognition in Scene Text Image Super-Resolution with Parametric Frameworks</b></a><br>
+      S. Viriyavisuthisakul, P. Sanguansat and T. Yamasaki<br>
+      ICCE, 2024 <br>
+       <a href="https://ieeexplore.ieee.org/document/10444229">[paper]</a> 
+    <tr>
+    <td valign="top" width="30%" style="padding-right: 10px;">
+      <img src="https://supattavir.github.io/asset/image/sitis_2023.png" width="200">
+    </td>
+    <td valign="top" width="70%">
+      <a href="https://ieeexplore.ieee.org/document/10472793"> <b>Comparative Evaluation of Fixed Windowing Strategies on CT Brain Images Using Multiple Deep Learning Models</b></a><br>
+      S. Viriyavisuthisakul, N. Kaothanthong, P. Sanguansat, T. Yamasaki and D. Songsaeng<br>
+      SITIS, 2023 <br>
+       <a href="https://ieeexplore.ieee.org/document/10472793">[paper]</a> 
+    </td>
+  </tr>
+
+ 
 </table>
 
 <br>
