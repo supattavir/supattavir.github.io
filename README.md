@@ -23,8 +23,8 @@
     <td valign="top" width="70%">
       <b>Parametric Loss based Super-Resolution for Scene Text Recognition</b><br>
       S. Viriyavisuthisakul, N. Kaothanthong, P. Sanguansat, T. Racharak, Minh Le Nguyen, C.Haruechaiyasak , and T. Yamasaki.<br>
-      ECCV, 2024<br>
-     [paper](https://link.springer.com/article/10.1007/s00138-023-01416-z) / [code](https://github.com/supattavir/MPR) / 
+       <a href="https://link.springer.com/article/10.1007/s00138-023-01416-z">[paper]</a> / 
+       <a href="https://github.com/supattavir/MPR">[code]</a>
     </td>
   </tr>
 </table>
