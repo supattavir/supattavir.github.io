@@ -148,7 +148,8 @@
       </a></p>
     </td>
     <td valign="top" width="70%">
-      <b>A Regularization-based Generative Adversarial Network for Single Image Super-Resolution</b><br>
+      <a href="https://researchmap.jp/tracharak/published_papers/36200846/attachment_file.pdf">
+       <b>A Regularization-based Generative Adversarial Network for Single Image Super-Resolution</b><br></a>
       S. Viriyavisuthisakul, N. Kaothanthong, P. Sanguansat, T. Racharak, Minh Le Nguyen, C.Haruechaiyasak , and T. Yamasaki<br>
       IMQA 2022
      <a href="https://researchmap.jp/tracharak/published_papers/36200846/attachment_file.pdf">[paper]</a> 
