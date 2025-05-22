@@ -141,7 +141,6 @@
       WiCV in ICCV 2023
     </td>
   </tr>
-
 <tr>
     <td valign="top" width="30%" style="padding-right: 10px;">
      <p><a href="https://supattavir.github.io/asset/image/L1.png">
@@ -152,9 +151,22 @@
       <b>A Regularization-based Generative Adversarial Network for Single Image Super-Resolution</b><br>
       S. Viriyavisuthisakul, N. Kaothanthong, P. Sanguansat, T. Racharak, Minh Le Nguyen, C.Haruechaiyasak , and T. Yamasaki<br>
       IMQA 2022
+     <a href="https://researchmap.jp/tracharak/published_papers/36200846/attachment_file.pdf">[paper]</a> 
     </td>
   </tr>
-     
+ <tr>
+    <td valign="top" width="30%" style="padding-right: 10px;">
+     <p><a href="https://supattavir.github.io/asset/image/L1.png">
+      <img src="https://supattavir.github.io/asset/image/L1.png" width="200">
+      </a></p>
+    </td>
+    <td valign="top" width="70%">
+      <b>Evaluation of Window Parameters of Noncontrast Cranial CT Brain Images for Hyperacute and Acute Ischemic Stroke Classification with Deep Learning</b><br>
+      S. Viriyavisuthisakul, N. Kaothanthong, P. Sanguansat, C. Haruechaiyasak, Minh Le Nguyen, S. Sarampakhul, T. Chansumpao, D. Songsaeng<br>
+      IEOM 2022
+     <a href="https://index.ieomsociety.org/index.cfm/article/view/ID/616">[paper]</a> 
+    </td>
+  </tr>
 <tr>
     <td valign="top" width="30%" style="padding-right: 10px;">
       <img src="https://supattavir.github.io/asset/image/IoT_queue.png" width="200">
