@@ -162,7 +162,7 @@
       </a></p>
     </td>
     <td valign="top" width="70%">
-      <b>Evaluation of Window Parameters of Noncontrast Cranial CT Brain Images for Hyperacute and Acute Ischemic Stroke Classification with Deep Learning</b><br>
+      <a href="https://index.ieomsociety.org/index.cfm/article/view/ID/616"><b>Evaluation of Window Parameters of Noncontrast Cranial CT Brain Images for Hyperacute and Acute Ischemic Stroke Classification with Deep Learning</b><br></a>
       S. Viriyavisuthisakul, N. Kaothanthong, P. Sanguansat, C. Haruechaiyasak, Minh Le Nguyen, S. Sarampakhul, T. Chansumpao, D. Songsaeng<br>
       IEOM 2022
      <a href="https://index.ieomsociety.org/index.cfm/article/view/ID/616">[paper]</a> 
