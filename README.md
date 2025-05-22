@@ -156,8 +156,8 @@
   </tr>
  <tr>
     <td valign="top" width="30%" style="padding-right: 10px;">
-     <p><a href="https://supattavir.github.io/asset/image/L1.png">
-      <img src="https://supattavir.github.io/asset/image/L1.png" width="200">
+     <p><a href="https://supattavir.github.io/asset/image/IEOM.png">
+      <img src="https://supattavir.github.io/asset/image/IEOM.png" width="200">
       </a></p>
     </td>
     <td valign="top" width="70%">
