@@ -65,7 +65,7 @@
       <a href="https://arxiv.org/pdf/2503.02767"> <b>Undertrained Image Reconstruction for Realistic Degradation in Blind
 Image Super-Resolution</b></a><br>
       S. Viriyavisuthisakul, P. Sanguansat and T. Yamasaki<br>
-      ICMR, 2024 <br>
+      arXiv, 2025 <br>
        <a href="https://arxiv.org/pdf/2503.02767">[paper]</a> 
     </td>
   </tr>
