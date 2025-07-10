@@ -57,6 +57,20 @@
   </tr>
  <tr>
     <td valign="top" width="30%" style="padding-right: 10px;">
+      <p><a href="https://supattavir.github.io/asset/image/VQ-VAE2.png">
+      <img src="https://supattavir.github.io/asset/image/VQ-VAE2.png" width="200">
+      </a></p>
+    </td>
+    <td valign="top" width="70%">
+      <a href="https://arxiv.org/pdf/2503.02767"> <b>Undertrained Image Reconstruction for Realistic Degradation in Blind
+Image Super-Resolution</b></a><br>
+      S. Viriyavisuthisakul, P. Sanguansat and T. Yamasaki<br>
+      ICMR, 2024 <br>
+       <a href="https://arxiv.org/pdf/2503.02767">[paper]</a> 
+    </td>
+  </tr>
+ <tr>
+    <td valign="top" width="30%" style="padding-right: 10px;">
       <p><a href="https://supattavir.github.io/asset/image/Demo_screen.png">
       <img src="https://supattavir.github.io/asset/image/Demo_screen.png" width="200">
       </a></p>
