@@ -91,6 +91,7 @@
       <b>Explainable AI for Image Aesthetic Evaluation Using Vision-Language Models</b><br>
       S. Viriyavisuthisakul, P. Sanguansat and T. Yamasaki<br>
       AIxMM, 2025  
+     <a href="https://ieeexplore.ieee.org/document/11005132">[paper]</a>
     </td>
   </tr>
  <tr>
