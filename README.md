@@ -33,6 +33,30 @@
   </tr>
  <tr>
     <td valign="top" width="30%" style="padding-right: 10px;">
+      <p><a href="https://supattavir.github.io/asset/image/demo_screen_MIPR.png">
+      <img src="https://supattavir.github.io/asset/image/demo_screen_MIPR.png" width="200">
+      </a></p>
+    </td>
+    <td valign="top" width="70%">
+      <b>A Web Demo Interface for Explainable Image Aesthetic Evaluation Using Vision-Language Models</b></a><br>
+      S. Viriyavisuthisakul, S. Yoshida, P. Sanguansat and T. Yamasaki<br>
+      MIPR, 2025 (Accepted) <br>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="30%" style="padding-right: 10px;">
+      <p><a href="https://supattavir.github.io/asset/image/model_miru.png">
+      <img src="https://supattavir.github.io/asset/image/model_miru.png" width="200">
+      </a></p>
+    </td>
+    <td valign="top" width="70%">
+      <b>Interpretable Aesthetic Assessment and Prompt-Guided Image Retouching</b></a><br>
+      S. Viriyavisuthisakul, P. Sanguansat and T. Yamasaki<br>
+      AI-SIPM at MIPR, 2025 (Accepted) <br>
+    </td>
+  </tr>
+ <tr>
+    <td valign="top" width="30%" style="padding-right: 10px;">
       <p><a href="https://supattavir.github.io/asset/image/Demo_screen.png">
       <img src="https://supattavir.github.io/asset/image/Demo_screen.png" width="200">
       </a></p>
