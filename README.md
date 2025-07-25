@@ -41,6 +41,8 @@
       <b>A Web Demo Interface for Explainable Image Aesthetic Evaluation Using Vision-Language Models</b></a><br>
       S. Viriyavisuthisakul, S. Yoshida, P. Sanguansat and T. Yamasaki<br>
       MIPR, 2025 (Accepted) <br>
+       <a href="https://youtu.be/d8HGN1xBq7I">[VDO]</a> / 
+       <a href="https://github.com/supattavir/explainable_aesthetic_iqa_demo.git">[code]</a>
     </td>
   </tr>
   <tr>
@@ -80,7 +82,8 @@ Image Super-Resolution</b></a><br>
       S. Viriyavisuthisakul, P. Sanguansat and T. Yamasaki<br>
       ICMR, 2024 <br>
        <a href="https://dl.acm.org/doi/10.1145/3652583.3657591">[paper]</a> / 
-       <a href="https://github.com/supattavir/MPRdemo">[code]</a>
+       <a href="https://github.com/supattavir/MPRdemo">[code]</a>/
+       <a href="https://youtu.be/-bjr_EZkS1g"></a>
     </td>
   </tr>
  <tr>
