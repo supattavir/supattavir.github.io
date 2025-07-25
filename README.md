@@ -83,7 +83,7 @@ Image Super-Resolution</b></a><br>
       ICMR, 2024 <br>
        <a href="https://dl.acm.org/doi/10.1145/3652583.3657591">[paper]</a> / 
        <a href="https://github.com/supattavir/MPRdemo">[code]</a>/
-       <a href="https://youtu.be/-bjr_EZkS1g"></a>
+       <a href="https://youtu.be/-bjr_EZkS1g">[VDO]</a>
     </td>
   </tr>
  <tr>
