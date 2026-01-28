@@ -38,7 +38,7 @@
       </a></p>
     </td>
     <td valign="top" width="70%">
-      <a href="https://www.aixmm.org/"> <b>Bridging Human Perception and Vision‑Language Models: A Perspective on Explainable Aesthetic Evaluation (Invited Paper)</b></a><br>
+      <a href="https://www.aixmm.org/"> <b>Bridging Human Perception and Vision‑Language Models: A Perspective on Explainable Aesthetic Evaluation</b></a>(Invited Paper)<br>
       S. Viriyavisuthisakul and T. Yamasaki<br>
       AIxMM, 2026 <br>
     </td>
