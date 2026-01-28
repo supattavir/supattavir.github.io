@@ -42,7 +42,7 @@
       S. Viriyavisuthisakul, S. Yoshida, P. Sanguansat and T. Yamasaki<br>
       MIPR, 2025 <br>
        <a href="https://youtu.be/d8HGN1xBq7I">[VDO]</a> / 
-       <a href="https://github.com/supattavir/explainable_aesthetic_iqa_demo.git">[code]</a>
+       <a href="https://github.com/supattavir/explainable_aesthetic_iqa_demo.git">[code]</a> /
        <a href="https://www.computer.org/csdl/proceedings-article/mipr/2025/946500a547/2byAUHd6P3W">[paper]</a>
     </td>
   </tr>
