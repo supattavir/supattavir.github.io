@@ -65,8 +65,8 @@
     </td>
     <td valign="top" width="70%">
       <a href="https://arxiv.org/pdf/2503.02767"> <b>Undertrained Image Reconstruction for Realistic Degradation in Blind
-Image Super-Resolution</b></a><br>
-      S. Viriyavisuthisakul, P. Sanguansat and T. Yamasaki<br>
+Image Super-Resolution</b></a><br>     
+      R. Ito, S. Viriyavisuthisakul, K.Kawamoto and K. Hiroshi<br>
       arXiv, 2025 <br>
        <a href="https://arxiv.org/pdf/2503.02767">[paper]</a> 
     </td>
