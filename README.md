@@ -33,6 +33,18 @@
   </tr>
  <tr>
     <td valign="top" width="30%" style="padding-right: 10px;">
+      <p><a href="https://supattavir.github.io/asset/image/aixmm_2026_git.png">
+      <img src="https://supattavir.github.io/asset/image/aixmm_2026_git.png" width="200">
+      </a></p>
+    </td>
+    <td valign="top" width="70%">
+      <a href="https://www.aixmm.org/"> <b>Bridging Human Perception and Vision‑Language Models: A Perspective on Explainable Aesthetic Evaluation (Invited Paper)</b></a><br>
+      S. Viriyavisuthisakul and T. Yamasaki<br>
+      AIxMM, 2026 <br>
+    </td>
+  </tr>
+ <tr>
+    <td valign="top" width="30%" style="padding-right: 10px;">
       <p><a href="https://supattavir.github.io/asset/image/demo_screen_MIPR.png">
       <img src="https://supattavir.github.io/asset/image/demo_screen_MIPR.png" width="200">
       </a></p>
