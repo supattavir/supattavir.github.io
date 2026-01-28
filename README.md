@@ -38,7 +38,7 @@
       </a></p>
     </td>
     <td valign="top" width="70%">
-      <b>A Web Demo Interface for Explainable Image Aesthetic Evaluation Using Vision-Language Models</b></a><br>
+      <a href="https://www.computer.org/csdl/proceedings-article/mipr/2025/946500a547/2byAUHd6P3W"> <b>A Web Demo Interface for Explainable Image Aesthetic Evaluation Using Vision-Language Models</b></a><br>
       S. Viriyavisuthisakul, S. Yoshida, P. Sanguansat and T. Yamasaki<br>
       MIPR, 2025 <br>
        <a href="https://youtu.be/d8HGN1xBq7I">[VDO]</a> / 
@@ -53,7 +53,7 @@
       </a></p>
     </td>
     <td valign="top" width="70%">
-      <b>Interpretable Aesthetic Assessment and Prompt-Guided Image Retouching</b></a><br>
+      <a href="https://www.computer.org/csdl/proceedings-article/mipr/2025/946500a566/2byAROQcLqo"> <b>Interpretable Aesthetic Assessment and Prompt-Guided Image Retouching</b></a><br>
       S. Viriyavisuthisakul, P. Sanguansat and T. Yamasaki<br>
       AI-SIPM at MIPR, 2025 <br>
      <a href="https://www.computer.org/csdl/proceedings-article/mipr/2025/946500a566/2byAROQcLqo">[paper]</a>
