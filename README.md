@@ -38,7 +38,7 @@
       </a></p>
     </td>
     <td valign="top" width="70%">
-      <a href="https://www.aixmm.org/"> <b>Bridging Human Perception and Vision‑Language Models: A Perspective on Explainable Aesthetic Evaluation</b></a>(Invited Paper)<br>
+      <a href="https://www.aixmm.org/"> <b>Bridging Human Perception and Vision‑Language Models: A Perspective on Explainable Aesthetic Evaluation</b></a><br>(Invited Paper)<br>
       S. Viriyavisuthisakul and T. Yamasaki<br>
       AIxMM, 2026 <br>
     </td>
@@ -207,7 +207,7 @@ Image Super-Resolution</b></a><br>
       <a href="https://researchmap.jp/tracharak/published_papers/36200846/attachment_file.pdf">
        <b>A Regularization-based Generative Adversarial Network for Single Image Super-Resolution</b><br></a>
       S. Viriyavisuthisakul, N. Kaothanthong, P. Sanguansat, T. Racharak, Minh Le Nguyen, C.Haruechaiyasak , and T. Yamasaki<br>
-      IMQA 2022
+      IMQA, 2022
      <a href="https://researchmap.jp/tracharak/published_papers/36200846/attachment_file.pdf">[paper]</a> 
     </td>
   </tr>
@@ -220,8 +220,30 @@ Image Super-Resolution</b></a><br>
     <td valign="top" width="70%">
       <a href="https://index.ieomsociety.org/index.cfm/article/view/ID/616"><b>Evaluation of Window Parameters of Noncontrast Cranial CT Brain Images for Hyperacute and Acute Ischemic Stroke Classification with Deep Learning</b><br></a>
       S. Viriyavisuthisakul, N. Kaothanthong, P. Sanguansat, C. Haruechaiyasak, Minh Le Nguyen, S. Sarampakhul, T. Chansumpao, D. Songsaeng<br>
-      IEOM 2022
+      IEOM, 2022
      <a href="https://index.ieomsociety.org/index.cfm/article/view/ID/616">[paper]</a> 
+    </td>
+  </tr>
+<tr>
+    <td valign="top" width="30%" style="padding-right: 10px;">
+      <img src="https://supattavir.github.io/asset/image/water_hy.png" width="200">
+    </td>
+    <td valign="top" width="70%">
+      <a href="https://ieeexplore.ieee.org/document/8706168"> <b>Water Hyacinth Segmentation for Aquatic Weed Elimination in Thailand</b></a><br>
+      S. Viriyavisuthisakul, P. Sanguansat, S. Toriumi, M. Hayashi and T. Yamasaki<br>
+      SITIS, 2018 <br>
+       <a href="https://ieeexplore.ieee.org/document/8706168">[paper]</a> 
+    </td>
+  </tr>
+<tr>
+    <td valign="top" width="30%" style="padding-right: 10px;">
+      <img src="https://supattavir.github.io/asset/image/iih-msp.png" width="200">
+    </td>
+    <td valign="top" width="70%">
+      <a href="https://link.springer.com/chapter/10.1007/978-3-319-63856-0_17"> <b>An Automatic People Counter in Stores Using a Low-Cost IoT Sensing Platform</b></a><br>(Best Paper Award)<br>
+      S. Viriyavisuthisakul, P. Sanguansat, S. Toriumi, M. Hayashi and T. Yamasaki<br>
+      IIH-MSP, 2017 <br>
+       <a href="https://link.springer.com/chapter/10.1007/978-3-319-63856-0_17">[paper]</a> 
     </td>
   </tr>
 <tr>
@@ -235,6 +257,7 @@ Image Super-Resolution</b></a><br>
        <a href="https://ieeexplore.ieee.org/document/7990991">[paper]</a> 
     </td>
   </tr>
+
   
 
 
