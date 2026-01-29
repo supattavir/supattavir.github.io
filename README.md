@@ -241,7 +241,7 @@ Image Super-Resolution</b></a><br>
       <img src="https://supattavir.github.io/asset/image/iih-msp.png" width="200">
     </td>
     <td valign="top" width="70%">
-      <a href="https://link.springer.com/chapter/10.1007/978-3-319-63856-0_17"> <b>An Automatic People Counter in Stores Using a Low-Cost IoT Sensing Platform</b></a>
+      <a href="https://link.springer.com/chapter/10.1007/978-3-319-63856-0_17"> <b>An Automatic People Counter in Stores Using a Low-Cost IoT Sensing Platform</b></a><br>
       <b>(Best Paper Award)</b><br>
       S. Viriyavisuthisakul, P. Sanguansat, S. Toriumi, M. Hayashi and T. Yamasaki<br>
       IIH-MSP, 2017 <br>
