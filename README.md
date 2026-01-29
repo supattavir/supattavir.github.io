@@ -38,7 +38,8 @@
       </a></p>
     </td>
     <td valign="top" width="70%">
-      <a href="https://www.aixmm.org/"> <b>Bridging Human Perception and Vision‑Language Models: A Perspective on Explainable Aesthetic Evaluation</b></a><b>(Invited Paper)</b><br>
+      <a href="https://www.aixmm.org/"> <b>Bridging Human Perception and Vision‑Language Models: A Perspective on Explainable Aesthetic Evaluation</b></a>
+      <b>(Invited Paper)</b><br>
       S. Viriyavisuthisakul and T. Yamasaki<br>
       AIxMM, 2026 <br>
     </td>
@@ -240,7 +241,8 @@ Image Super-Resolution</b></a><br>
       <img src="https://supattavir.github.io/asset/image/iih-msp.png" width="200">
     </td>
     <td valign="top" width="70%">
-      <a href="https://link.springer.com/chapter/10.1007/978-3-319-63856-0_17"> <b>An Automatic People Counter in Stores Using a Low-Cost IoT Sensing Platform</b></a><b>(Best Paper Award)</b><br>
+      <a href="https://link.springer.com/chapter/10.1007/978-3-319-63856-0_17"> <b>An Automatic People Counter in Stores Using a Low-Cost IoT Sensing Platform</b></a>
+      <b>(Best Paper Award)</b><br>
       S. Viriyavisuthisakul, P. Sanguansat, S. Toriumi, M. Hayashi and T. Yamasaki<br>
       IIH-MSP, 2017 <br>
        <a href="https://link.springer.com/chapter/10.1007/978-3-319-63856-0_17">[paper]</a> 
