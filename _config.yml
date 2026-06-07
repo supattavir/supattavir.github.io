@@ -3,3 +3,11 @@ logo: asset/image/supatta_circle.jpg
 description: Department of Mathematics, Faculty of Science, King Mongkut's University of Technology Thonburi, supatta.viri@kmutt.ac.th
 email: supatta.viri@kmutt.ac.th
 theme: jekyll-theme-minimal
+
+links:
+  - text: Education
+    url: "#education"
+  - text: News
+    url: "#news"
+  - text: Publications
+    url: "#publications"
