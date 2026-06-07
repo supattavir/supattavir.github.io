@@ -1,16 +1,16 @@
 # Asst.Prof.Dr. Supatta Viriyavisuthisakul
-## Education <a name="education" id="education"></a>
+## <a id="education">Education</a>
 - Doctor of Philosophy in Information Science (Dual degree), Japan Advanced Institute of Science and Technology (JAIST), Japan (SIIT-JAIST-NSTDA Scholarship)
 - Doctor of Philosophy in Engineering and Technology (Dual degree), The Sirindhorn International Institute of Technology (SIIT), Thailand (SIIT-JAIST-NSTDA Scholarship)
 
-## News <a name="news" id="news"></a>
+## <a id="news">News</a>
 - <b>Jun 2026</b>: Selected to be the Global Chair (Student Program Chair) in NeurIPS2026 (Sydney, Atlanta, Paris)
 - <b>May 2026</b>: Publication co-chair at MIPR (Aug 9-11, 2026 \| Thailand) [[Link](https://mipr2026.org/index.html)]
 - <b>Mar 2026</b>: Organizing Women in Computer Vision Workshop at ECCV 2026 (Sep 9, 2026 \| Sweden) [[Link](https://sites.google.com/view/wicv-eccv-2026/)]
 - <b>Jan 2026</b>: Research Scholarship on medical images, KMUTT (2026-2027)
 - <b>Mar 2025</b>: Organizing Women in Computer Vision Workshop at ICCV 2025 (Oct 19, 2025 \| Hawaii) [[Link](https://sites.google.com/view/wicv-iccv-2025/)]
   
-## Publications <a name="publications" id="publications"></a>
+## <a id="publications">Publications</a>
 <table>
   <tr>
     <td valign="top" width="30%" style="padding-right: 10px;">
