@@ -266,7 +266,7 @@ Image Super-Resolution</b></a><br>
        <a href="https://ieeexplore.ieee.org/document/7990991">[paper]</a> 
     </td>
   </tr>
-
+</table>
   
 ## <a id="Honors & Awards">Honors & Awards</a>
 - Chatbot <b>Bot Pharmacy</b> registered a copyright of intellectual property with Department of Intellectual Property of Thailand in 2022
