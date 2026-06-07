@@ -268,6 +268,18 @@ Image Super-Resolution</b></a><br>
   </tr>
 
   
+## <a id="Honors & Awards">Honors & Awards</a>
+- Chatbot <b>Bot Pharmacy</b> registered a copyright of intellectual property with Department of Intellectual Property of Thailand in 2022
+- Chatbot <b>Bot Pharmacy</b> won the Silver Award in Health and Medicine track at Thailand New Gen Inventors Award 2021, Bitech Bangna, Bangkok, Thailand
+- <b>Best Paper Awards</b> “An Automatic People Counter in Stores Using a Low-cost IoT Sensing Platform” from the thirteenth international conference on Intelligent Information Hiding and Multimedia Signal Processing (IIH-MSP) 2017, Matsue, Japan
+- Represent Thai student to join in young scientist with Ministry of Foreign Affair in Japan (2016)
+- <b>Outstanding Master degree thesis award </b>in Engineering and Technology field by Association of Private Higher Education Institutions of Thailand under the patronage of her royal highness Princess Mahachakri Sirindhorn (2016)
+
+
+
+
+
+  
 
 
 
