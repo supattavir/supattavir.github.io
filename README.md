@@ -4,10 +4,10 @@
 
 ## News
 - Jun 2026: Selected to be the Global Chair (Student Program Chair) in NeurIPS2026 (Sydney, Atlanta, Paris)
-- May 2026: Publication co-chair at MIPR (Aug 9-11, 2026 | Thailand) [[Link](https://mipr2026.org/index.html)]
-- Mar 2026: Organizing Women in Computer Vision Workshop at ECCV 2026 (Sep 9, 2026 | Sweden) [[Link](https://sites.google.com/view/wicv-eccv-2026/)]
+- May 2026: Publication co-chair at MIPR (Aug 9-11, 2026 \| Thailand) [[Link](https://mipr2026.org/index.html)]
+- Mar 2026: Organizing Women in Computer Vision Workshop at ECCV 2026 (Sep 9, 2026 \| Sweden) [[Link](https://sites.google.com/view/wicv-eccv-2026/)]
 - Jan 2026: Research Scholarship on medical images, KMUTT (2026-2027)
-- Mar 2025: Organizing Women in Computer Vision Workshop at ICCV 2025 (Oct 19, 2025 | Hawaii) [[Link](https://sites.google.com/view/wicv-iccv-2025/)]
+- Mar 2025: Organizing Women in Computer Vision Workshop at ICCV 2025 (Oct 19, 2025 \| Hawaii) [[Link](https://sites.google.com/view/wicv-iccv-2025/)]
   
 ## Publications
 <table>
@@ -45,9 +45,9 @@
     <td valign="top" width="70%">
       <a href="https://www.aixmm.org/"> <b>Bridging Human Perception and Vision‑Language Models: A Perspective on Explainable Aesthetic Evaluation</b></a><br>
       <b>(Invited Paper)</b><br>
-      <a href="https://www.computer.org/csdl/proceedings-article/icsc/2026/474800a305/2fWHZFm2Da8">[paper]</a> 
       S. Viriyavisuthisakul and T. Yamasaki<br>
       AIxMM, 2026 <br>
+      <a href="https://www.computer.org/csdl/proceedings-article/icsc/2026/474800a305/2fWHZFm2Da8">[paper]</a> 
     </td>
   </tr>
  <tr>
