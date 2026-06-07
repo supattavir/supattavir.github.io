@@ -5,7 +5,7 @@
  - Doctor of Philosophy in Engineering and Technology (Dual degree), The Sirindhorn International Institute of Technology (SIIT), Thailand (SIIT-JAIST-NSTDA Scholarship)
 
 ## Activitys
-- Test
+- March 2026: Organizing Women in Computer Vision Workshop at ECCV 2026 <a href="https://sites.google.com/view/wicv-eccv-2026/">[Link]</a>.
 
 ## Publications
 <table>
