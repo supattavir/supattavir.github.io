@@ -37,7 +37,7 @@
        <a href="https://github.com/supattavir/MPR">[code]</a>
     </td>
   </tr>
- <tr>
+  <tr>
     <td valign="top" width="30%" style="padding-right: 10px;">
       <p><a href="https://supattavir.github.io/asset/image/aixmm_2026_git.png">
       <img src="https://supattavir.github.io/asset/image/aixmm_2026_git.png" width="200">
@@ -51,7 +51,7 @@
       <a href="https://www.computer.org/csdl/proceedings-article/icsc/2026/474800a305/2fWHZFm2Da8">[paper]</a> 
     </td>
   </tr>
- <tr>
+  <tr>
     <td valign="top" width="30%" style="padding-right: 10px;">
       <p><a href="https://supattavir.github.io/asset/image/demo_screen_MIPR.png">
       <img src="https://supattavir.github.io/asset/image/demo_screen_MIPR.png" width="200">
@@ -79,7 +79,7 @@
      <a href="https://www.computer.org/csdl/proceedings-article/mipr/2025/946500a566/2byAROQcLqo">[paper]</a>
     </td>
   </tr>
- <tr>
+  <tr>
     <td valign="top" width="30%" style="padding-right: 10px;">
       <p><a href="https://supattavir.github.io/asset/image/VQ-VAE2.png">
       <img src="https://supattavir.github.io/asset/image/VQ-VAE2.png" width="200">
@@ -93,7 +93,7 @@ Image Super-Resolution</b></a><br>
        <a href="https://arxiv.org/pdf/2503.02767">[paper]</a> 
     </td>
   </tr>
- <tr>
+  <tr>
     <td valign="top" width="30%" style="padding-right: 10px;">
       <p><a href="https://supattavir.github.io/asset/image/Demo_screen.png">
       <img src="https://supattavir.github.io/asset/image/Demo_screen.png" width="200">
@@ -108,7 +108,7 @@ Image Super-Resolution</b></a><br>
        <a href="https://youtu.be/-bjr_EZkS1g">[VDO]</a>
     </td>
   </tr>
- <tr>
+  <tr>
     <td valign="top" width="30%" style="padding-right: 10px;">
      <p><a href="https://supattavir.github.io/asset/image/IFMIA.jpg">
       <img src="https://supattavir.github.io/asset/image/IFMIA.jpg" width="200">
@@ -120,7 +120,7 @@ Image Super-Resolution</b></a><br>
       IFMIA, 2025  
     </td>
   </tr>
-<tr>
+  <tr>
     <td valign="top" width="30%" style="padding-right: 10px;">
        <p><a href="https://supattavir.github.io/asset/image/aixmm.png">
       <img src="https://supattavir.github.io/asset/image/aixmm.png" width="200">
@@ -133,7 +133,7 @@ Image Super-Resolution</b></a><br>
      <a href="https://ieeexplore.ieee.org/document/11005132">[paper]</a>
     </td>
   </tr>
- <tr>
+  <tr>
     <td valign="top" width="30%" style="padding-right: 10px;">
        <p><a href="https://supattavir.github.io/asset/image/STR_result.png">
       <img src="https://supattavir.github.io/asset/image/STR_result.png" width="200">
@@ -144,8 +144,9 @@ Image Super-Resolution</b></a><br>
       S. Viriyavisuthisakul, P. Sanguansat and T. Yamasaki<br>
       ICCE, 2024 <br>
        <a href="https://ieeexplore.ieee.org/document/10444229">[paper]</a> 
-    <tr>
- <tr>
+    </td>
+  </tr>
+  <tr>
     <td valign="top" width="30%" style="padding-right: 10px;">
       <p><a href="https://supattavir.github.io/asset/image/WiCV@ECCV2024.png">
       <img src="https://supattavir.github.io/asset/image/WiCV@ECCV2024.png" width="200">
@@ -157,6 +158,7 @@ Image Super-Resolution</b></a><br>
       WiCV in ECCV 2024
     </td>
   </tr>
+  <tr>
     <td valign="top" width="30%" style="padding-right: 10px;">
        <p><a href="https://supattavir.github.io/asset/image/sitis_2023.png">
       <img src="https://supattavir.github.io/asset/image/sitis_2023.png" width="200">
@@ -169,7 +171,7 @@ Image Super-Resolution</b></a><br>
        <a href="https://ieeexplore.ieee.org/document/10472793">[paper]</a> 
     </td>
   </tr>
- <tr>
+  <tr>
     <td valign="top" width="30%" style="padding-right: 10px;">
      <p><a href="https://supattavir.github.io/asset/image/WiML_NeuIPS_2023.jpg">
       <img src="https://supattavir.github.io/asset/image/WiML_NeuIPS_2023.jpg" width="200">
@@ -181,7 +183,7 @@ Image Super-Resolution</b></a><br>
       WiML in NeurIPS 2023
     </td>
   </tr>
- <tr>
+  <tr>
     <td valign="top" width="30%" style="padding-right: 10px;">
      <p><a href="https://supattavir.github.io/asset/image/wicv_cvpr23.jpg">
       <img src="https://supattavir.github.io/asset/image/wicv_cvpr23.jpg" width="200">
@@ -193,7 +195,7 @@ Image Super-Resolution</b></a><br>
       WiCV in CVPR 2023
     </td>
   </tr>
- <tr>
+  <tr>
     <td valign="top" width="30%" style="padding-right: 10px;">
      <p><a href="https://supattavir.github.io/asset/image/ICCV2023_Poster_page-0001.jpg">
       <img src="https://supattavir.github.io/asset/image/ICCV2023_Poster_page-0001.jpg" width="200">
@@ -205,7 +207,7 @@ Image Super-Resolution</b></a><br>
       WiCV in ICCV 2023
     </td>
   </tr>
-<tr>
+  <tr>
     <td valign="top" width="30%" style="padding-right: 10px;">
      <p><a href="https://supattavir.github.io/asset/image/L1.png">
       <img src="https://supattavir.github.io/asset/image/L1.png" width="200">
@@ -219,7 +221,7 @@ Image Super-Resolution</b></a><br>
      <a href="https://researchmap.jp/tracharak/published_papers/36200846/attachment_file.pdf">[paper]</a> 
     </td>
   </tr>
- <tr>
+  <tr>
     <td valign="top" width="30%" style="padding-right: 10px;">
      <p><a href="https://supattavir.github.io/asset/image/IEOM.png">
       <img src="https://supattavir.github.io/asset/image/IEOM.png" width="200">
@@ -232,7 +234,7 @@ Image Super-Resolution</b></a><br>
      <a href="https://index.ieomsociety.org/index.cfm/article/view/ID/616">[paper]</a> 
     </td>
   </tr>
-<tr>
+  <tr>
     <td valign="top" width="30%" style="padding-right: 10px;">
       <img src="https://supattavir.github.io/asset/image/water_hy.png" width="200">
     </td>
@@ -243,7 +245,7 @@ Image Super-Resolution</b></a><br>
        <a href="https://ieeexplore.ieee.org/document/8706168">[paper]</a> 
     </td>
   </tr>
-<tr>
+  <tr>
     <td valign="top" width="30%" style="padding-right: 10px;">
       <img src="https://supattavir.github.io/asset/image/iih-msp.png" width="200">
     </td>
@@ -255,7 +257,7 @@ Image Super-Resolution</b></a><br>
        <a href="https://link.springer.com/chapter/10.1007/978-3-319-63856-0_17">[paper]</a> 
     </td>
   </tr>
-<tr>
+  <tr>
     <td valign="top" width="30%" style="padding-right: 10px;">
       <img src="https://supattavir.github.io/asset/image/IoT_queue.png" width="200">
     </td>
@@ -268,19 +270,9 @@ Image Super-Resolution</b></a><br>
   </tr>
 </table>
   
-## <a id="Honors & Awards">Honors & Awards</a>
+## <a id="honors">Honors & Awards</a>
 - Chatbot <b>Bot Pharmacy</b> registered a copyright of intellectual property with Department of Intellectual Property of Thailand in 2022
 - Chatbot <b>Bot Pharmacy</b> won the Silver Award in Health and Medicine track at Thailand New Gen Inventors Award 2021, Bitech Bangna, Bangkok, Thailand
 - <b>Best Paper Awards</b> “An Automatic People Counter in Stores Using a Low-cost IoT Sensing Platform” from the thirteenth international conference on Intelligent Information Hiding and Multimedia Signal Processing (IIH-MSP) 2017, Matsue, Japan
-- Represent Thai student to join in young scientist with Ministry of Foreign Affair in Japan (2016)
-- <b>Outstanding Master degree thesis award </b>in Engineering and Technology field by Association of Private Higher Education Institutions of Thailand under the patronage of her royal highness Princess Mahachakri Sirindhorn (2016)
-
-
-
-
-
-  
-
-
-
-
+- Represent Thai student to join in young scientist with Ministry of Foreign Affair in Japan (2016)[cite: 3]
+- <b>Outstanding Master degree thesis award </b>in Engineering and Technology field by Association of Private Higher Education Institutions of Thailand under the patronage of her royal highness Princess Mahachakri Sirindhorn (2016)[cite: 3]
