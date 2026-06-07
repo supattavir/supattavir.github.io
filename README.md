@@ -4,9 +4,13 @@
  - Doctor of Philosophy in Information Science (Dual degree), Japan Advanced Institute of Science and Technology (JAIST), Japan (SIIT-JAIST-NSTDA Scholarship)
  - Doctor of Philosophy in Engineering and Technology (Dual degree), The Sirindhorn International Institute of Technology (SIIT), Thailand (SIIT-JAIST-NSTDA Scholarship)
 
-## Activitys
-- March 2026: Organizing Women in Computer Vision Workshop at ECCV 2026 <a href="https://sites.google.com/view/wicv-eccv-2026/">[Link]</a>.
+## News
+- Jun 2026: Selected to be the Global Chair (Student Program Chair) in NeurIPS2026 (Sydney, Atlanta, Paris)
+- Mar 2026: Organizing Women in Computer Vision Workshop at ECCV 2026 (Sep 9, 2026 | Sweden) <a href="https://sites.google.com/view/wicv-eccv-2026/">[Link]</a>.
+- Jan 2026: Research Scholarship on medical images, KMUTT (2026-2027)
+- Mar 2025: Organizing Women in Computer Vision Workshop at ICCV 2025 (Oct 19, 2025 | Hawaii) <a href="https://sites.google.com/view/wicv-iccv-2025/">[Link]</a>.
 
+  
 ## Publications
 <table>
   <tr>
